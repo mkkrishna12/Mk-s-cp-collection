@@ -1,0 +1,11 @@
+/**********
+		Time Complexity 
+
+BFS (level Order Traversal):
+	O(Node + edges)
+
+DFS :
+	O(NODE + Edges)
+
+
+**************/
